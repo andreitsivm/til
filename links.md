@@ -8,3 +8,4 @@
 - https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count
 - https://web.dev/learn/performance/why-speed-matters
 - https://developer.chrome.com/docs/web-platform/page-lifecycle-api
+- https://developer.chrome.com/docs/devtools/
